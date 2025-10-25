@@ -1,0 +1,290 @@
+{
+    "results": [
+        {
+            "address": {
+                "sa1": "11101120615",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "3 Dalton Close"
+            },
+            "area_level": "address",
+            "area_name": "3 Dalton Close, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 1,
+                "bedrooms": 3,
+                "building_size": "nan",
+                "description": "Dial up your lifestyle in this updated Belmont North beauty, where a stone-topped kitchen, showroom bathroom, and an open plan living zone collide. With alfresco entertaining, lush lawns, and a double garage, this home's built for fun, comfort and daily convenience. \n- Elevated balcony with leafy neighbourhood outlook\n- Ultra-chic kitchen featuring big brand appliances \n- Showpiece bathroom with a luxury standalone bath \n- Three restful bedrooms, each with built-in storage\n- Covered and paved alfresco retreat for barbecues and lazy days\n- North to rear aspect drenched in natural sunlight all-day\n- Timber-look floors; crisp white walls; air conditioning\n- Double garage beneath plus extra off street parking\n- Beaches, schools, eateries plus Fernleigh Track close by \n- Shop locally at Jewellstown Plaza or Belmont CBD\n\nKEY DETAILS:\nCouncil Rates $2,354pa\nWater Rates $849pa",
+                "garage_spaces": 2,
+                "land_size": "607.0"
+            },
+            "coordinates": {
+                "latitude": -33.01402088,
+                "longitude": 151.67272249
+            },
+            "gnaf_pid": "GANSW704082298",
+            "listing_date": "2025-10-03",
+            "price": 950000,
+            "property_type": "House"
+        },
+        {
+            "address": {
+                "sa1": "11101120624",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "17 Dulungra Avenue"
+            },
+            "area_level": "address",
+            "area_name": "17 Dulungra Avenue, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 3,
+                "bedrooms": 5,
+                "building_size": "None",
+                "description": "Expressions of Interest closes Tuesday 28th October\nThis beautifully presented five-bedroom, three-bathroom home combines generous proportions, modern finishes, and a flexible design, creating the perfect haven for growing families. With multiple living zones, a well-planned floor layout, and both indoor and outdoor spaces for relaxation and entertaining, it offers the ideal balance of lifestyle and convenience.\nAt the heart of the home is the contemporary kitchen, complete with stone benchtops, sleek appliances, a walk-in pantry, and abundant preparation space. Overlooking the open-plan dining and living areas, it creates a natural hub for family gatherings. The adjoining undercover entertaining area and fully fenced backyard can be viewed directly from the kitchen-perfect for hosting friends or keeping an eye on children at play.\nThe five bedrooms are all generously sized, including a luxurious master suite with two walk-in wardrobes and a private ensuite. Two additional bathrooms service the home, ensuring family practicality. Multiple living zones offer flexibility for relaxation, work, or play, while an elevated front balcony captures a leafy outlook, providing yet another retreat.\nEveryday comfort is assured with air conditioning, ceiling fans, and thoughtful design throughout, while ample storage is cleverly integrated across the home. A secure double garage with internal access and a large under-house storage area provide plenty of room for vehicles and equipment, with the bonus of an extra parking space at the top of the driveway. Energy efficiency and peace of mind are built in, thanks to solar panels, a security alarm system, water tank, and block-out window awnings.\nPerfectly located, you'll be approx. 500m to Floraville Public School and 3.3km to Belmont High School, with Jewells Plaza just 2.2km away and major retail options at Bennetts Green Homemakers Centre (approx. 3.5km) and Belmont Central (approx. 4.3km). Weekends are made for lifestyle, with Belmont Baths only approx. 4km away, Redhead Beach approx. 6.2km, and Warners Bay Foreshore approx. 7km.\nA true family sanctuary offering space, style, and a prime location-this is a home that will adapt with your family and deliver the lifestyle you've been searching for.\nThe information contained herein has been provided by people we believe to be reliable, however all interested parties must rely on their own enquiries.",
+                "garage_spaces": 2,
+                "land_size": "605 m²"
+            },
+            "coordinates": {
+                "latitude": -33.01204354,
+                "longitude": 151.66851581
+            },
+            "gnaf_pid": "GANSW715835616",
+            "listing_date": "2025-10-08",
+            "price": 1350000,
+            "property_type": "House"
+        },
+        {
+            "address": {
+                "sa1": "11101120618",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "46 Arlington Street"
+            },
+            "area_level": "address",
+            "area_name": "46 Arlington Street, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 4,
+                "bedrooms": 6,
+                "building_size": "nan",
+                "description": "A unique opportunity to secure two stylish and modern homes, both with expansive ocean and lake views, plus a separate studio. Ideal for multi-generational living or savvy dual income. This is a rare opportunity, without comparison, to secure a coastal lifestyle with views to die for. \n- Two storey four bedroom, two bathroom main residence\n- Spacious living zones across two levels, new stone kitchen \n- Ensuite to master; double sized bedrooms, air conditioning\n- Great alfresco areas plus an attached double garage \n- Second home: two storey, two bedroom, two bathroom with separate driveway\n- Open plan living flows out to sunny balcony retreat\n- Modern kitchen, double carport, alfresco areas, swim spa  \n- Bonus studio for work, hobbies or guest accommodation \n- Extensive energy efficient solar fitted to both homes with separate electrical metering\n- Near Belmont 16s, major shopping centers, popular walking tracks and beaches\n\nKEY DETAILS: \nCouncil Rates $2,680pa\nWater Rates $849pa",
+                "garage_spaces": 4,
+                "land_size": "638.6"
+            },
+            "coordinates": {
+                "latitude": -33.01645636,
+                "longitude": 151.67699981
+            },
+            "gnaf_pid": "GANSW704076654",
+            "listing_date": "2025-08-22",
+            "price": 1500000,
+            "property_type": "House"
+        },
+        {
+            "address": {
+                "sa1": "11101120613",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "75 Buttaba Avenue"
+            },
+            "area_level": "address",
+            "area_name": "75 Buttaba Avenue, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 2,
+                "bedrooms": 3,
+                "building_size": "113.0",
+                "description": "This is the one that keeps everyone happy...\n\nThe one where both halves of the couple nod in agreement ...\n\nWhere the heart of the home is beautifully finished, stylish and move-in ready, and out the back lies the kind of setup that dreams (and weekends) are made of.\n\nEvery inch of this home has been renovated and refreshed with care. From the street, it's perfectly presented and elevated for privacy, framed by stone retaining, hedged gardens and a crisp coastal faade that catches the light. Step inside and it instantly feels right, bright, balanced and beautifully proportioned. All on one easy level, it's not too big, not too small, just the perfect size for comfortable, effortless living. Real timber floors bring warmth underfoot, soft neutral tones add calm, and every surface, fitting and finish feels fresh and new.\n\nThe open plan living, dining and kitchen zone is the heart of the home, a beautifully connected space designed for conversation, comfort and everyday flow. The kitchen is a highlight, complete with sleek stone benchtops, soft-close cabinetry, full-height storage and a smart mix of matte and timber textures. Quality stainless-steel appliances tie the space together, while the breakfast bar becomes a natural gathering point for morning coffees or evening drinks. Wide windows and glass sliders keep the home bright and breezy, opening directly onto the covered deck where indoor and outdoor living merge seamlessly.\n\nAnd then there's the shed...\n\nThe kind that makes grown men grin. Twelve metres wide and seven deep, with roller doors tall enough to accommodate a caravan or boat, it's more than a workspace, it's a playground. There's room for the project car, the bikes, the gym, the tools, the workbench and the weekend toys, with a mezzanine above for storage. Out back, a bar adds the finishing touch, a space for mates to gather, with lights glowing across the lawn and music spilling softly from the shed. It's the sort of setup that turns weekends into occasions and sheds into sanctuaries.\n\nFrom the deck to the backyard, from the firepit to the shed, the flow just works, open, level and effortless. The block has been fully landscaped and retained to create a flat, north-facing yard where everything feels accessible, practical and perfectly planned.\n\nThe bedroom wing sits quietly away from the living zones for added privacy. The master suite is calm and inviting with a walk-in robe, a renovated ensuite and soft carpet underfoot. Both additional bedrooms are generous in size, fitted with built-in robes, split-system air-conditioning and modern finishes that tie the home together. The main bathroom is equally impressive, with a dual rainfall shower, freestanding bath, and a sleek floating vanity. Stylish, functional and easy to love.\n\nEven from the street, this home makes an impression. The elevated faade and manicured gardens give it confidence and charm, while side access with brand new gate makes life practical as you drive up beside the house and step straight onto the undercover deck with no stairs at all.\n\nAnd the location is the final drawcard. Nestled in one of Belmont North's most peaceful pockets, right on the cusp of Redhead and Jewells, this is where suburbia meets surfside serenity. You can walk to the Fernleigh Track, wander through the wetlands, or follow the sandy trails to Third Creek and the vast stretch of Redhead Beach. You're minutes from Lake Macquarie for paddleboarding and sailing, yet only 25 minutes to Newcastle and less than 90 minutes to Sydney. It's a lifestyle carved from sea, sky and sunshine, where every day starts and ends with fresh air and freedom.\n\nHere's what you'll love:\n Fully renovated, move-in ready home with nothing left to do but enjoy.\n Single-level living with a perfect balance of space and flow throughout.\n Elevated coastal faade framed by stone retaining and manicured hedges for privacy and presence.\n Real timber floors bringing warmth and texture to every living space.\n Freshly painted interiors in a timeless neutral palette.\n Open plan living and dining filled with natural light and cool sea breezes.\n Contemporary kitchen with stone benchtops, soft-close cabinetry and designer finishes.\n Quality stainless-steel appliances including wall oven, microwave and dishwasher.\n Integrated black-glass cooktop and sleek splashback for a contemporary touch.\n Breakfast bar for casual meals or entertaining.\n Covered entertaining deck perfect for year round use\n Flat, north-facing backyard ideal for gatherings, pets and play.\n Beautifully landscaped gardens with easy-care lawn and retaining.\n Firepit zone for relaxed nights under the stars.\n 12 m x 7 m shed with power, high roller doors and mezzanine storage.\n Bar area behind the shed, the ultimate hangout or party spot.\n Drive-through side access via brand new gates, perfect for boats or caravans.\n Single garage under the home plus extra driveway parking.\n Private master suite with walk-in robe, ensuite and split-system air-conditioning.\n Ensuite with walk-in shower, wall-hung vanity and floor-to-ceiling tiling.\n Two additional bedrooms with built-ins, air-conditioning and ceiling fans.\n Main bathroom with dual rainfall showers, a deep freestanding bath and modern fittings.\n Laundry positioned for convenience with direct outdoor access.\n All new lighting, downlights and ceiling fans throughout.\n New blinds and window furnishings complementing the fresh coastal aesthetic.\n Elevated position with glimpses of the ocean and cool summer breezes.\n Minutes to Lake Macquarie, Belmont 16s, cafs, supermarkets and schools.\n Stroll to the Fernleigh Track, Redhead wetlands and beach access at Third Creek.\n Approximately 25 minutes to Newcastle CBD and under 90 minutes to Sydney.\n\nFor those chasing the perfect mix of beautiful home and ultimate lifestyle, this one does it all. Inside, it's stylish, comfortable and completely finished, a home where everything has already been done. \n\nOutside, it's freedom at its best, space for projects, parties, hobbies and downtime, all in a setting that's calm, coastal and connected to everything that matters.\n\nCome & Besold...",
+                "garage_spaces": 6,
+                "land_size": "696.0"
+            },
+            "coordinates": {
+                "latitude": -33.02082227,
+                "longitude": 151.67228953
+            },
+            "gnaf_pid": "GANSW704083961",
+            "listing_date": "2025-10-23",
+            "price": 1100000,
+            "property_type": "House"
+        },
+        {
+            "address": {
+                "sa1": "11101120602",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "23 Neridah Road"
+            },
+            "area_level": "address",
+            "area_name": "23 Neridah Road, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 3,
+                "bedrooms": 6,
+                "building_size": "nan",
+                "description": "Set on an expansive 1-hectare block in a quiet cul-de-sac, this recently completed residence offers a rare sanctuary of luxury, space and refined living. Designed for modern family life, it balances grand scale with intimate comforts, presenting a lifestyle of ease and elegance just moments from everyday conveniences. Enjoy a sense of complete escape while still being within easy reach of schools, shops and Newcastle's vibrant city centre.\n\nAt the heart of the home lies a grand open-plan living, dining and kitchen space, where soaring 5.7-metre ceilings and expansive windows bathe the interiors in natural light. A striking gas fireplace adds warmth and ambience, while stacking glass doors create a seamless connection to the outdoors. Step out to the expansive entertaining area, set on travertine tiles and perfectly appointed with a built-in BBQ, fridge and pizza oven. This space flows onto a stunning 14.5-metre naked freshwater pool with spa, all enjoying a north-west aspect overlooking Bangalay Reserve, creating a tranquil and private backdrop.\n\nThe kitchen is a chef's dream, featuring elegant limestone benches, double ovens, a built-in coffee machine and a spacious butler's pantry. Each detail is crafted for both style and functionality, making it a welcoming space for casual family meals and impressive gatherings alike. Thoughtfully designed to cater to work, entertainment and leisure, the lower level also includes a cinema room with tiered seating and a bar fridge, an insulated wine cellar and a dedicated study. Experience elevated comfort year-round with zoned ducted air-conditioning, seamlessly enhancing the ambience of every space.\n\nUpstairs offers a generous additional living area perfect for family downtime, play or work, along with the luxurious main bedroom, a private haven complete with a dressing room, full ensuite and its own balcony capturing peaceful, elevated views across the reserve. The remaining five generous bedrooms, all with built-in robes, are thoughtfully spread across both levels to offer flexible accommodation for family or guests.\n\nCar and outdoor enthusiasts will appreciate the triple garage with epoxy flooring and built-in cabinetry, plus a separate triple-car garage providing plenty of parking, storage or workshop space. Landscaped for low maintenance and maximum enjoyment, the gardens complement the home's seamless indoor-outdoor flow, allowing you to fully embrace a premium lifestyle of comfort, style and tranquillity.",
+                "garage_spaces": 6,
+                "land_size": "10000.0"
+            },
+            "coordinates": {
+                "latitude": -33.00412862,
+                "longitude": 151.6740535
+            },
+            "gnaf_pid": "GANSW704080368",
+            "listing_date": "2025-05-28",
+            "price": 5500000,
+            "property_type": "House"
+        },
+        {
+            "address": {
+                "sa1": "11101120602",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "4 Eagles Nest Close"
+            },
+            "area_level": "address",
+            "area_name": "4 Eagles Nest Close, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 4,
+                "bedrooms": 4,
+                "building_size": "nan",
+                "description": "Nestled away in a hidden pocket of Belmont North, this architecturally reimagined residence is a rare fusion of privacy, scale and natural splendor, it's more a nature retreat than suburban home. Enveloped by over a hectare of lush bushland and serenaded by the gentle murmur of a meandering creek, it offers a magical escape from the everyday while keeping you brilliantly connected to both the lake and the coast. A circular driveway winds you into your own private sanctuary, where towering eucalypts and fern-laced gardens create a magical arrival. Inside, the split-level design unfolds with effortless elegance, maximising light and livability across three distinct living areas and a perfectly zoned four-bedroom, four-bathroom floorplan. Floor-to-ceiling glass blurs the lines between indoors and out, especially in the cathedral-ceilinged dining area where dappled sunlight and birdsong are your constant companions. Entertain alfresco surrounded by king parrots and kookaburras, or curl up fireside with a glass of red as the evening settles in. With its rare blend of seclusion and centrality, being mere minutes from the city bypass, lakefront, surf, shopping, and top-tier schools, this much-loved home is a once-in-a-generation find that deserves your full attention.\n\n-\tLight-filled lounge with raked ceiling, air-conditioning, and verandah access\n-\tCathedral-style dining zone with stunning louvre windows and soaring ceilings\n-\tOpen-plan family space and gourmet kitchen featuring Miele induction cooktop, double ovens, and dishwasher \n-\tMaster suite with walk-in robe, renovated ensuite, and air-conditioning\n-\tTwo bedrooms, and air-conditioned rumpus, and third bathroom rest on one wing \n-\tLarge laundry alongside fully updated fourth bathroom\n-\tOversized double garage with workshop area and all-weather home access\n-\t14 solar panels and 23,000L rainwater tank encourage sustainable living\n-\tZoned for well-regarded Floraville Public School and close to shopping, dining and coastal adventure \n\nWe have obtained all information used in the preparation of this document from third party sources however, we cannot guarantee the accuracy or currency of this information. Prospective purchasers and their advisors are advised to carry out and rely on their own enquiries and investigations in relation to the information in this document and the property it concerns.",
+                "garage_spaces": 2,
+                "land_size": "10100.0"
+            },
+            "coordinates": {
+                "latitude": -33.00388047,
+                "longitude": 151.67114867
+            },
+            "gnaf_pid": "GANSW704083105",
+            "listing_date": "2025-05-28",
+            "price": 2500000,
+            "property_type": "House"
+        },
+        {
+            "address": {
+                "sa1": "11101120604",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "5 Pinnaroo Close"
+            },
+            "area_level": "address",
+            "area_name": "5 Pinnaroo Close, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 3,
+                "bedrooms": 4,
+                "building_size": "nan",
+                "description": "This large family home offers many applications - positioned on the high side of the road enables you to take advantage of the sea breezes and lovely view to Lake Macquarie.\n\n\nFreshly painted the home is ready for you to move in and enjoy. Light-filled interiors are complemented by multiple indoor and outdoor living areas, perfect for family life and entertaining. Thoughtfully designed for family living, the homes layout flows effortlessly across levels and provides the new owner with opportunities to accommodate generations.\n\nIncluded in this lovely home:\n\tFormal entry and living space with stunning Cathedral Ceiling -\nflowing into an open plan living room and dining room all leading out to front deck with views to the lake\n\tKitchen with Caesarstone benchtops, double sink, Miele dishwasher and Electrolux oven and microwave\n\tFormal lounge\n\tMain bedroom has walk in robe, renovated ensuite and fan\n\tBedrooms 2 and 3 have built in robes and fans\n\tWalk in linen press\n\tMain bathroom features a corner spa and large shower\n\tAlfresco area and grassed back yard\n\nDownstairs\n\t4th bedroom with built in robes\n\tFamily room with split system air conditioning and a 3rd bathroom\n\tOversized double garage with storage room\n\t9m x 5m carport\n\tSolar electricity\n\nPositioned for both convenience and lifestyle, this home is just moments from local schools, shopping, the lake, and some of the regions best beaches and walking trails.  1.2 km to Jewells Primary School  2.1 km to Belmont Christian College  3.5 km to Belmont High School  Close to Jewells Shopping Centre, Redhead Beach, Lake Macquarie, the Fernleigh Track and major link roads to Newcastle and Sydney.\n\n\nDont miss your chance to secure a family home in a tightly held enclave with captivating views and room to grow.\n\nDisclaimer: We have obtained all information provided here from sources we believe to be reliable; however, we cannot guarantee its accuracy. Prospective purchasers are advised to carry out their own investigations and satisfy themselves of all aspects of such information including and without limitation, any income, rentals, dimensions, areas, zoning, inclusions and exclusions.",
+                "garage_spaces": 3,
+                "land_size": "768.0"
+            },
+            "coordinates": {
+                "latitude": -33.02006063,
+                "longitude": 151.6800542
+            },
+            "gnaf_pid": "GANSW704079805",
+            "listing_date": "2025-10-13",
+            "price": 1150000,
+            "property_type": "House"
+        },
+        {
+            "address": {
+                "sa1": "11101120634",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "Unit 13, 348 Pacific Highway"
+            },
+            "area_level": "address",
+            "area_name": "Unit 13, 348 Pacific Highway, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 1,
+                "bedrooms": 3,
+                "building_size": "None",
+                "description": "Effortlessly stylish and designed for easy living, this refreshed three-bedroom townhouse offers a smart, low-maintenance lifestyle in a superb setting. Step inside to discover a spacious open plan living & dining area flowing out to a generous sized courtyard. The kitchen features stone benchtops and S/S appliances along with an abundance of cupboard space. \nUpstairs, three generously sized bedrooms feature built-in robes with one boasting a walk in. A well-appointed main bathroom services each bedroom, ensuring comfort and convenience for the whole household.\nPositioned between Jewells and Belmont, you'll have everyday essentials within easy reach while living close to the natural beauty of Lake Macquarie and Redhead Beach. If you're into the outdoors, you'll love weekends exploring 4WD tracks at Belmont Wetlands or cycling the Fernleigh Track all the way to Swansea or Adamstown.\n- Completely repainted with new carpets throughout \n- Only one adjoining neighbour in a quiet complex\n- Wrap around courtyard\n- Single lock-up garage with internal access & courtyard access, perfect for two wheelers\n- Large laundry and a second toilet\n- Ducted air conditioning throughout",
+                "garage_spaces": 1,
+                "land_size": "None"
+            },
+            "coordinates": {
+                "latitude": -33.02111096,
+                "longitude": 151.66619672
+            },
+            "gnaf_pid": "GANSW717131278",
+            "listing_date": "2025-10-22",
+            "price": 650000,
+            "property_type": "Unit"
+        },
+        {
+            "address": {
+                "sa1": "11101120610",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "30 John Fisher Road"
+            },
+            "area_level": "address",
+            "area_name": "30 John Fisher Road, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 1,
+                "bedrooms": 3,
+                "building_size": "nan",
+                "description": "Welcome to 30 John Fisher Drive, Belmont North - a beautifully presented family home combining comfort, character, and convenience. Set on a 556.4m block in a quiet, well-regarded street with a leafy outlook, this residence offers a warm and inviting atmosphere with ample space for the whole family.\n\nKey Features:\n Three generous bedrooms, all with built-in robes\n Main bathroom plus 2nd WC off the spacious laundry\n Two large living areas, perfect for family relaxation and entertaining\n Stunning high ceilings with exposed beams in the rear living area\n Abundance of natural light throughout the home\n Ceiling fan in the main bedroom\n Split-system air conditioner in the second living space\n Spacious kitchen with ample storage and bench space\n Tandem double garage with lots of under-house storage\n Additional shed at the rear providing extra storage options\n Well-sized, low-maintenance yard ideal for families or hobby gardeners\n\nLocation & Lifestyle:\n\tDirectly opposite a peaceful, scenic outlook\n\t0.5km to Belmont Christian College\n\t2.5km to Belmont Central Shopping Centre\n\t2.5km to Belmont High School\n\t4.5km to Redhead Beach\n\tEasy access to local parks, transport, and recreational facilities\n",
+                "garage_spaces": 3,
+                "land_size": "556.4"
+            },
+            "coordinates": {
+                "latitude": -33.02311367,
+                "longitude": 151.66921469
+            },
+            "gnaf_pid": "GANSW704076321",
+            "listing_date": "2025-10-20",
+            "price": 875000,
+            "property_type": "House"
+        },
+        {
+            "address": {
+                "sa1": "11101120609",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "Unit 2, 1 Vincent Street"
+            },
+            "area_level": "address",
+            "area_name": "Unit 2, 1 Vincent Street, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": 1,
+                "bedrooms": 2,
+                "building_size": "None",
+                "description": "Discover the epitome of comfortable retirement living in this completely renovated two-bedroom unit at the prestigious Calvary Nazareth Retirement Village. Unit 2 stands apart with its comprehensive full refurbishment, featuring a stunning brand new kitchen and luxurious brand new bathroom - ready for you to simply move in and enjoy.\nWhat sets Unit 2 apart:\nComplete full refurbishment throughout\nBrand new modern kitchen with quality fittings\nPristine new bathroom with contemporary finishes\nPremium presentation ready for immediate occupancy\nKey Features:\n2 generous bedrooms\nSpacious living area perfect for entertaining\nSingle carport for secure parking\nVisitor parking available for guests\nWelcoming community atmosphere\nPrime Location Benefits:\nJust 8 minutes to Bennetts Green Homemaker Centre\nOnly 6 minutes to Belmont Shopping Village\nEstablished retirement village with excellent amenities\nThis immaculately presented unit offers the perfect blend of modern comfort and village lifestyle. With everything brand new and move-in ready, Unit 2 represents exceptional value for discerning buyers seeking quality without compromise.\nYou may have to pay a departure fee to exit this village.",
+                "garage_spaces": 1,
+                "land_size": "None"
+            },
+            "coordinates": {
+                "latitude": -33.02289234,
+                "longitude": 151.66747673
+            },
+            "gnaf_pid": "GANSW718650493",
+            "listing_date": "2025-04-29",
+            "price": 575000,
+            "property_type": "Unit"
+        },
+        {
+            "address": {
+                "sa1": "11101120634",
+                "sal": "Belmont North",
+                "state": "NSW",
+                "street": "380-384 Pacific Highway"
+            },
+            "area_level": "address",
+            "area_name": "380-384 Pacific Highway, Belmont North, NSW",
+            "attributes": {
+                "bathrooms": null,
+                "bedrooms": null,
+                "building_size": "1377.0",
+                "description": "A rare strategic offering providing a prominent sought after northbound corner site location poised to capitalise on burgeoning local development.\n\n 1,377m* Site area\n\n Zone MU1: Mixed use\n\n Substantial 47.5m* Pacific Highway frontage\n\n Fenced hardstand yard\n\n Site office\n\n\nFor Sale: Expressions of Interest campaign closing 4PM Monday 27 October 2025.\nAll offers must be received by the Agent in writing by the deadline to be considered. \n\n\n\n\n*Approximately",
+                "garage_spaces": null,
+                "land_size": "1377.0"
+            },
+            "coordinates": {
+                "latitude": -33.02305765,
+                "longitude": 151.66381854
+            },
+            "gnaf_pid": "GANSW716483968",
+            "listing_date": "2025-09-23",
+            "price": 1800000,
+            "property_type": "Unit"
+        }
+    ]
+}
